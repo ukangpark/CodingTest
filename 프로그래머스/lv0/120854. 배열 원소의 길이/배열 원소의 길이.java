@@ -1,3 +1,4 @@
+import java.util.Arrays;
 class Solution {
     public int[] solution(String[] strlist) {
         int len = strlist.length;
